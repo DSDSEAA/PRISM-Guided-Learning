@@ -19,12 +19,18 @@ All three implementations address the problem of navigating in a grid model with
 
 ## Requirements: 
 -Python 3.6+
+
 -Numpy
+
 -Matpotlib
+
 -PRISM Model Checker (for PMC integration)
 
 ## Installation 
 1.Download the repo
+
 2.Install required Python Packages 
+
 3.Install PRISM (https://www.prismmodelchecker.org/download.php)
+
 4.Update the PRISM path in the code (in the 'get_prism_path()' function)
